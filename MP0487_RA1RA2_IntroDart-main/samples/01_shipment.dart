@@ -162,7 +162,7 @@ void main() {
         }
         print("\n${ShipmentConfig.totalWeightMsg}$totalWeight${ShipmentConfig.kgUnit}");
         break;
-
+ 
       case"6":
        double max = 0.0 ;
         

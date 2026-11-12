@@ -172,6 +172,7 @@ void main() {
         operational = false;
         break;
 
+
       default:
         print(HotelConfig.unknownCommandMsg);
     }

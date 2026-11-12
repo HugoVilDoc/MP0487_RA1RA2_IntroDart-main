@@ -96,6 +96,7 @@ class BusTrackerConfig {
   static const String option5 = "5. Check Next Closest Bus (Any Stop)";
   static const String option6 = "6. average arrival time for all buses";
   static const String option7 = "7. Exit ";
+  
   static const String selectPrompt = "Enter your choice (1-6): ";
   static const String scheduleHeader = "--- Current Bus Schedule Matrix ---";
   static const String noSchedulesMsg = "No buses are currently scheduled.";
